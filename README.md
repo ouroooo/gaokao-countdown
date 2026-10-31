@@ -1,7 +1,5 @@
 # 高考倒计时壁纸 · 2027
 
-> 作者：**ouroooo** · 仓库：https://github.com/ouroooo/gaokao-countdown
-
 一个可以离线运行的高考倒计时网页 / 动态桌面壁纸：**地球定位开场 + 毛泽东诗词轮播 + 高考倒计时**。
 
 纯静态 HTML，无 npm、无构建、无任何外部网络请求。直接双击 `index.html` 就能用，也可以部署到 GitHub Pages 作为在线壁纸。
